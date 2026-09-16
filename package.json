@@ -1,0 +1,10 @@
+{
+  "name": "payment-allocation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Headless payment allocation function (principal -> interest -> escrow -> fees) in integer cents.",
+  "main": "allocatePayment.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
